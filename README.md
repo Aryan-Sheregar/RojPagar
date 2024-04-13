@@ -29,3 +29,13 @@ Through our intuitive application, users can easily browse job listings, receive
 **Recommendation Model**: scikit-learn
 
 **Authentication**: JSON Web Tokens (JWT)
+
+## Credits/Team
+
+Roj-Pagar was created during HackSRM 5.0 by the following team members:
+
+- <img src="https://github.com/saksham-shrey.png" width="50" height="50" style="border-radius: 50%;"> [@Saksham-Shrey](https://github.com/saksham-shrey)
+- <img src="https://github.com/aryan-sheregar.png" width="50" height="50" style="border-radius: 50%;"> [@aryan-sheregar](https://github.com/aryan-sheregar)
+- <img src="https://github.com/sahil-sharma06.png" width="50" height="50" style="border-radius: 50%;"> [@sahil-sharma06](https://github.com/sahil-sharma06)
+- <img src="https://github.com/harsh-singla20.png" width="50" height="50" style="border-radius: 50%;"> [@harsh-singla20](https://github.com/harsh-singla20)
+- <img src="https://github.com/siba-sundar.png" width="50" height="50" style="border-radius: 50%;"> [@siba-sundar](https://github.com/siba-sundar)
